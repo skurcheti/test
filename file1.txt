@@ -1,2 +1,2 @@
 this is first file in file1
-
+second line
