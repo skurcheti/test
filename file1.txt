@@ -1,2 +1,4 @@
-this is first file in file1
+this is f1
+testirst file in file1
 second line
+thirdlin
